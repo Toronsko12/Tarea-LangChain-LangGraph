@@ -1,0 +1,5 @@
+Para configurar API_KEY, simplemente cambiar el valor de esta en el archivo .env, luego en caso de ejecutar en collab añadirlo al entorno, en caso de ejecutarlo en local, dejar en .env visible para el programa.
+
+Por defecto viene la API_KEY que utilizamos en clases, no entendí como configurar una propia :C
+
+Luego de eso, ejecutar todas las celdas en orden, el archivo viene con los análisis y un diagrama que muestra el flujo del grafo.
